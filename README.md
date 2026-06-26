@@ -8,6 +8,12 @@
 Building simple, beautiful mobile applications
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Studio-BC%20Studio-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Apps%20%26%20Games-green?style=flat-square"/>
+</p>
+
 
 # <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f680.svg" width="28"/> BC Studio
 
