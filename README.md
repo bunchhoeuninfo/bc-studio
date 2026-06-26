@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="assets/bc-studio-logo.png" width="180" />
+</p>
+
+<h1 align="center">BC STUDIO</h1>
+
+<p align="center">
+Building simple, beautiful mobile applications
+</p>
+
+
 # <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f680.svg" width="28"/> BC Studio
 
 ### Building simple, beautiful and productive mobile applications.
